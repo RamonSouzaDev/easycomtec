@@ -29,5 +29,5 @@
 
 ## EASYCOMTEC
 
-![teste](https://github.com/RamonSouzaDev/easycomtec/evidencia.png)
+![teste](./evidencia.png)
 
